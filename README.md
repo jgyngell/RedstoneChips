@@ -6,9 +6,9 @@ Chips can be constructed with any number of inputs and outputs and in almost any
 
 - RedstoneChips - The core plugin (required). 
 
-- [BasicCircuits](http://github.com/eisental/BasicCircuits) - The basic chip library containing most chip types you might need (required).
+- [BasicCircuits](http://github.com/jgyngell/BasicCircuits) - The basic chip library containing most chip types you might need (required).
 
-- [SensorLibrary](http://github.com/eisental/SensorLibrary) - A chip library for various sensor chips (optional).
+- [SensorLibrary](http://github.com/jgyngell/SensorLibrary) - A chip library for various sensor chips (optional).
 
 Check out the [circuitdocs](http://eisental.github.com/RedstoneChips/circuitdocs) for more info on available RedstoneChips circuits.
 
@@ -21,6 +21,10 @@ Installation
 
 Changelog
 ----------
+
+#### RedstoneChipd 0.98 (January 12th, 2023)
+- Updated to work with Spigot / PaperMC 1.17+
+- Changed to Gradle build system
 
 #### RedstoneChips 0.97 (Apr 30th, 2013)
 - Fixed the saving bug on cb 1.5.1.
